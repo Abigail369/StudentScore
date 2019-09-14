@@ -1,0 +1,127 @@
+{
+  "score": [
+    {
+      "sid": "1",
+      "name": "小张",
+      "kid": "001",
+      "kname": "数学",
+      "score": "50",
+      "semester": "2",
+      "getcredit": "1",
+      "id": "1"
+    },
+    {
+      "sid": "1",
+      "name": "小张",
+      "kid": "002",
+      "kname": "英语",
+      "score": "90",
+      "semester": "2",
+      "getcredit": "4",
+      "id": "2"
+    },
+    {
+      "sid": "1",
+      "name": "小张",
+      "kid": "003",
+      "kname": "语文",
+      "score": "100",
+      "semester": "3",
+      "getcredit": "5",
+      "id": "3"
+    },
+    {
+      "sid": "2",
+      "name": "小李",
+      "kid": "001",
+      "kname": "数学",
+      "score": "40",
+      "semester": "3",
+      "getcredit": "1",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "sid": "2",
+      "name": "小李",
+      "kid": "002",
+      "kname": "英语",
+      "score": "80",
+      "semester": "3",
+      "getcredit": "3.5"
+    },
+    {
+      "sid": "5",
+      "name": "小周",
+      "kid": "001",
+      "kname": "数学",
+      "score": "80",
+      "semester": "1",
+      "getcredit": "4",
+      "id": "ZRi_COh"
+    }
+  ],
+  "student": [
+    {
+      "name": "小张",
+      "sid": "1",
+      "zid": "A01",
+      "inclass": "计算机2001班",
+      "sex": "女",
+      "age": "21"
+    },
+    {
+      "name": "小王",
+      "sid": "4",
+      "zid": "A01",
+      "inclass": "计算机2001班",
+      "sex": "男",
+      "age": "20"
+    },
+    {
+      "name": "小周",
+      "sid": "5",
+      "zid": "A01",
+      "inclass": "通信2001班",
+      "sex": "女",
+      "age": "23"
+    },
+    {
+      "name": "小李",
+      "sid": "2",
+      "zid": "A02",
+      "inclass": "英语2002班",
+      "sex": "女",
+      "age": "22"
+    }
+  ],
+  "course": [
+    {
+      "kid": "001",
+      "kname": "数学",
+      "credit": "5"
+    },
+    {
+      "kid": "003",
+      "kname": "语文",
+      "credit": "5"
+    },
+    {
+      "kid": "002",
+      "kname": "英语",
+      "credit": "5"
+    }
+  ],
+  "profession": [
+    {
+      "zid": "A01",
+      "zname": "计算机专业",
+      "description": "计算机专业"
+    },
+    {
+      "zid": "A02",
+      "zname": "英语专业",
+      "description": "英语专业"
+    }
+  ]
+}
